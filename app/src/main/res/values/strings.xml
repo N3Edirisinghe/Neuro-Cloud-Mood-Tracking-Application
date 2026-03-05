@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Neuro Cloud</string>
+    <string name="web_client_id">YOUR_WEB_CLIENT_ID</string>
+</resources>
