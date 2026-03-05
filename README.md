@@ -1,5 +1,7 @@
 # 🧠 Neuro Cloud
 
+🌐 **Live Demo:** [neurocloud.netlify.app](https://neurocloud.netlify.app)
+
 A modern **mental wellness & mood tracking** Android application built with Jetpack Compose and Firebase.
 
 ---
