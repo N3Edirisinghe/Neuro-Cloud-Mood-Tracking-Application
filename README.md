@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/N3Edirisinghe/Neuro-Cloud-Mood-Tracking-Application/master/app/src/main/res/drawable/ic_launcher_foreground.xml" alt="Neuro Cloud Logo" width="120" height="120" />
+  <img src="screenshots/logo.png" alt="Neuro Cloud Logo" width="120" height="120" />
 
   # 🧠 Neuro Cloud
 
@@ -53,7 +53,7 @@ Whether logging daily emotions, exploring curated mindfulness exercises, or chat
 
 | Dashboard | Mood Tracking | AI Chat | Pro Activities |
 |:---:|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400.png?text=Dashboard" width="200" alt="Dashboard"> | <img src="https://via.placeholder.com/200x400.png?text=Track+Mood" width="200" alt="Tracker"> | <img src="https://via.placeholder.com/200x400.png?text=AI+Chat" width="200" alt="Chat"> | <img src="https://via.placeholder.com/200x400.png?text=Activities" width="200" alt="Activities"> |
+| <img src="screenshots/dashboard.png" width="200" alt="Dashboard"> | <img src="screenshots/tracking.png" width="200" alt="Tracker"> | <img src="screenshots/chat.png" width="200" alt="Chat"> | <img src="screenshots/activities.png" width="200" alt="Activities"> |
 
 *(Note: Replace placeholder images with actual app screenshots in the `screenshots/` directory)*
 
