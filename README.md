@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/drawable/ic_launcher_foreground.xml" alt="Neuro Cloud Logo" width="120" height="120" />
+  <img src="https://raw.githubusercontent.com/N3Edirisinghe/Neuro-Cloud-Mood-Tracking-Application/master/app/src/main/res/drawable/ic_launcher_foreground.xml" alt="Neuro Cloud Logo" width="120" height="120" />
 
   # 🧠 Neuro Cloud
 
