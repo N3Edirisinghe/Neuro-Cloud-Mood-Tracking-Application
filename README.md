@@ -53,7 +53,7 @@ Whether logging daily emotions, exploring curated mindfulness exercises, or chat
 
 | Dashboard | Mood Tracking | AI Chat | Pro Activities |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/dashboard.png" width="200" alt="Dashboard"> | <img src="screenshots/tracking.png" width="200" alt="Tracker"> | <img src="screenshots/chat.png" width="200" alt="Chat"> | <img src="screenshots/activities.png" width="200" alt="Activities"> |
+| <img src="screenshots/dashboard.jpeg" width="200" alt="Dashboard"> | <img src="screenshots/tracking.jpeg" width="200" alt="Tracker"> | <img src="screenshots/chat.png" width="200" alt="Chat"> | <img src="screenshots/activities.jpeg" width="200" alt="Activities"> |
 
 *(Note: Replace placeholder images with actual app screenshots in the `screenshots/` directory)*
 
