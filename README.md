@@ -167,5 +167,5 @@ This project is submitted as an academic assignment.
 
 ---
 <div align="center">
-  <i>Made with ❤️ for Mental Wellness</i>
+  <i>Made with ❤️ for Mental Health & Wellness</i>
 </div>
