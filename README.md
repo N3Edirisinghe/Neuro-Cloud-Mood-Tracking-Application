@@ -57,9 +57,7 @@ Whether logging daily emotions, exploring curated mindfulness exercises, or chat
 
 *(Note: Replace placeholder images with actual app screenshots in the `screenshots/` directory)*
 
----
-
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 Neuro Cloud is built on a modern Android technology stack:
 
